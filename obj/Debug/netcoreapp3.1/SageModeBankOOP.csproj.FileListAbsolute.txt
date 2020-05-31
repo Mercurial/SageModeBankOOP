@@ -1,0 +1,13 @@
+/home/rawriclark/Projects/SageModeBankOOP/bin/Debug/netcoreapp3.1/SageModeBankOOP
+/home/rawriclark/Projects/SageModeBankOOP/bin/Debug/netcoreapp3.1/SageModeBankOOP.deps.json
+/home/rawriclark/Projects/SageModeBankOOP/bin/Debug/netcoreapp3.1/SageModeBankOOP.runtimeconfig.json
+/home/rawriclark/Projects/SageModeBankOOP/bin/Debug/netcoreapp3.1/SageModeBankOOP.runtimeconfig.dev.json
+/home/rawriclark/Projects/SageModeBankOOP/bin/Debug/netcoreapp3.1/SageModeBankOOP.dll
+/home/rawriclark/Projects/SageModeBankOOP/bin/Debug/netcoreapp3.1/SageModeBankOOP.pdb
+/home/rawriclark/Projects/SageModeBankOOP/obj/Debug/netcoreapp3.1/SageModeBankOOP.csprojAssemblyReference.cache
+/home/rawriclark/Projects/SageModeBankOOP/obj/Debug/netcoreapp3.1/SageModeBankOOP.AssemblyInfoInputs.cache
+/home/rawriclark/Projects/SageModeBankOOP/obj/Debug/netcoreapp3.1/SageModeBankOOP.AssemblyInfo.cs
+/home/rawriclark/Projects/SageModeBankOOP/obj/Debug/netcoreapp3.1/SageModeBankOOP.csproj.CoreCompileInputs.cache
+/home/rawriclark/Projects/SageModeBankOOP/obj/Debug/netcoreapp3.1/SageModeBankOOP.dll
+/home/rawriclark/Projects/SageModeBankOOP/obj/Debug/netcoreapp3.1/SageModeBankOOP.pdb
+/home/rawriclark/Projects/SageModeBankOOP/obj/Debug/netcoreapp3.1/SageModeBankOOP.genruntimeconfig.cache
